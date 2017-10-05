@@ -1,13 +1,14 @@
 # coding: utf8
 '''
-# -------------------------------------------------------------------------------------------------------
-# CONVERTER GEODATABASE
-# -------------------------------------------------------------------------------------------------------
-# Michel Metran
-# Agosto de 2017
+-------------------------------------------------------------------------------------------------------
+CONVERTER GEODATABASE
+-------------------------------------------------------------------------------------------------------
+Michel Metran
+Agosto de 2017
 
-# Script elaborado para converter arquivos do geodatabase para diversos outros formatos comomente utilizados,
-# com a correção dos datum para WGS84, sendo esse o padrÃ£o frequentemente utilizado.
+Script elaborado para converter arquivos do geodatabase para diversos outros formatos comumente utilizados,
+com a correção dos datum para WGS84, sendo esse o padrão frequentemente utilizado.
+
 '''
 
 # -------------------------------------------------------------------------------------------------------
@@ -25,7 +26,7 @@ sys.setdefaultencoding('utf8')
 
 # -------------------------------------------------------------------------------------------------------
 # Variável de Input
-geodatabase = r'E:\SIG_MP_BasesCartograficas\SP_SiCAR\Geodata\Geo_SiCAR.mdb'
+geodatabase = r'F:\IC_79-05\Geodata\Geo_APAMA.mdb'
 
 # -------------------------------------------------------------------------------------------------------
 # Functions
